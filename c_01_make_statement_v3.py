@@ -16,6 +16,7 @@ def make_statement(statement, decoration, lines=1):
     else:
         print(top_bottom)
         print(middle)
+        
        
 
 #main code here
